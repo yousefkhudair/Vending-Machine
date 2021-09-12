@@ -6,5 +6,6 @@ Object-Oriented Vending Machine Application | Tech Elevator Unit Capstone
 - Encapsulated inventory methods for supply and BigDecimal format for monetary transactions
 - Utilized JUnit testing to confirm accurate functionality (97.6%+ coverage on return methods)
 
+## Solution map
 ![capcap](https://user-images.githubusercontent.com/66449969/132998911-de3818f0-bef0-4f03-be4c-de65948624c5.png)
  
